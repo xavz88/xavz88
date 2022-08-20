@@ -1,0 +1,335 @@
+El distrito 0 (red) tiene: 215263 habitantes.
+
+"
+"
+
+El distrito 1 (darkblue) tiene: 240995 habitantes.
+
+"
+"
+
+El distrito 2 (springgreen) tiene: 219179 habitantes.
+
+"
+"
+
+El distrito 3 (chocolate) tiene: 236734 habitantes.
+
+"
+"
+
+El desglose de poblaciones:
+
+"
+
+
+"
+
+"
+"
+
+Distrito 0
+
+-------------
+
+Porreres
+
+Vilafranca de Bonany
+
+Felanitx
+
+Manacor
+
+Sant Llorenç des Cardassar
+
+Artà
+
+Petra
+
+Santa Margalida
+
+Capdepera
+
+Sant Joan
+
+Maria de la Salut
+
+Son Servera
+
+Llubí
+
+Muro
+
+Pobla (Sa)
+
+Ariany
+
+Alcúdia
+
+Montuïri
+
+Santanyí
+
+Lloret de Vistalegre
+
+Sineu
+
+Pollença
+
+"
+"
+
+Distrito 1
+
+-------------
+
+Hostalets
+
+Plaça de Toros
+
+Arxiduc
+
+Sindicat (El)
+
+"Fortesa (Son), sud"
+
+Missió (La)
+
+Oliva (Son)
+
+Cort
+
+Cotoner (Son)
+
+Camp Redó
+
+Can Capes
+
+Vida (Son)
+
+Gènova
+
+Amanecer
+
+Secar de la Real
+
+Sardina (Son)
+
+"Indioteria (La), urbà"
+
+Cladera (Son)
+
+Rafal Vell
+
+Gotleu (Son)
+
+"Soledat (La), nord"
+
+Pere Garau
+
+"Soledat (La), sud"
+
+Establiments
+
+Cas Capiscol
+
+Rul.lan (Son)
+
+Viver (El)
+
+"Fortesa (Son), nord"
+
+Estadi Balear
+
+Malferit (Son)
+
+Coll d'en Rabassa (El)
+
+Can Pastilla
+
+Meravelles (Les)
+
+Espanyol(Son)
+
+Mare de Deu de Lluc
+
+Canals (Son)
+
+Molinar (El)
+
+Esporles
+
+"Indioteria (La), rural"
+
+Anglada (Son)
+
+Riera (Son)
+
+Rafal Nou
+
+Ferriol (Son)
+
+Aeroport
+
+"
+"
+
+Distrito 2
+
+-------------
+
+Inca
+
+Selva
+
+Mancor de la Vall
+
+Binissalem
+
+Escorca
+
+Llucmajor
+
+Lloseta
+
+Fornalutx
+
+Alaró
+
+Bunyola
+
+Deià
+
+Santa Maria del Camí
+
+Valldemossa
+
+Arenal (L')
+
+Casa Blanca (La)
+
+Algaida
+
+Consell
+
+Marratxí
+
+Sóller
+
+Sant Jordi
+
+Santa Eugènia
+
+Pil·larí (El)
+
+Aranjassa (L´)
+
+Campanet
+
+Búger
+
+Campos
+
+Sencelles
+
+Costitx
+
+Salines (Ses)
+
+"
+"
+
+Distrito 3
+
+-------------
+
+Puig de Sant Pere
+
+Santa Catalina
+
+Zona Portuaria
+
+Espanyolet (Son)
+
+Llotja-Born
+
+Armadams (Son)
+
+Dameto (Son)
+
+Sant Jaume
+
+Camp d'en Serralta
+
+Calatrava (La)
+
+Dureta (Son)
+
+Teulera (La)
+
+Jonquet (El)
+
+Flor (Son)
+
+Bonanova (La)
+
+Bellver
+
+Serra(Son)- La Vileta
+
+Portopí
+
+Peretó (Son)
+
+Cala Major
+
+Terreno (El)
+
+Jaume III
+
+Seu (La)
+
+Sant Agustí
+
+Roca (Son)
+
+Almendros (Los)-Son Pacs
+
+Fortí (Es)
+
+Sant Nicolau
+
+Monti-Sion
+
+Plaça dels Patins
+
+Ximelis (Son)
+
+Xigala (Son)
+
+Bons Aires
+
+Mercat (El)
+
+Rapinya (Son)
+
+Marquès de la Fontsanta
+
+Foners
+
+Calvià
+
+Andratx
+
+Estellencs
+
+Puigpunyent
+
+Can Pere Antoni
+
+Banyalbufar
+
+Polígon de Llevant
+
+Olivera (L')
+
