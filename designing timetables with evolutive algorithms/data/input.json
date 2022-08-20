@@ -1,0 +1,387 @@
+{
+  "classes": [
+    {
+      "name": "Ciencia de Datos",
+      "availability": {
+        "from": 8,
+        "to": 15     
+      },
+      "subjects": [
+        {
+          "name": "Inteligencia Computacional",
+          "weekHours": 4,
+          "teacher": 1
+        },
+        {
+          "name": "Aprendizaje Automatico",
+          "weekHours": 4,
+          "teacher": 2
+        },
+        {
+          "name": "Redes Complejas",
+          "weekHours": 4,
+          "teacher": 4
+        },
+        {
+          "name": "Almacenamiento y Recuperacion de Datos",
+          "weekHours": 4,
+          "teacher": 4
+        },
+        {
+          "name": "Gestion de la innovacion",
+          "weekHours": 2,
+          "teacher": 3
+        },
+        {
+          "name": "Metodologia de Investigacion",
+          "weekHours": 2,
+          "teacher": 1
+        }
+      ]
+    },
+    {
+      "name": "Vision por Computador",
+      "availability": {
+        "from": 8,
+        "to": 15
+      },
+      "subjects": [
+        {
+          "name": "Inteligencia Computacional",
+          "weekHours": 4,
+          "teacher": 2
+        },
+        {
+          "name": "Aprendizaje Automatico",
+          "weekHours": 4,
+          "teacher": 2
+        },
+        {
+          "name": "Vision por Computador y Reconstruccion 3D",
+          "weekHours": 4,
+          "teacher": 5
+        },
+        {
+          "name": "Analisis de Imagenes y Video",
+          "weekHours": 4,
+          "teacher": 5
+        },
+        {
+          "name": "Gestion de la innovacion",
+          "weekHours": 2,
+          "teacher": 1
+        },
+        {
+          "name": "Metodologia de Investigacion",
+          "weekHours": 2,
+          "teacher": 1
+        }
+      ]
+    },
+    {
+      "name": "Internet de las Cosas",
+      "availability": {
+        "from": 8,
+        "to": 15
+      },
+      "subjects": [
+        {
+          "name": "Inteligencia Computacional",
+          "weekHours": 4,
+          "teacher": 2
+        },
+        {
+          "name": "Aprendizaje Automatico",
+          "weekHours": 4,
+          "teacher": 3
+        },
+        {
+          "name": "Sensorizacion y Control de Robots Moviles",
+          "weekHours": 4,
+          "teacher": 6
+        },
+        {
+          "name": "Navegacion y Modelado del Entorno en Robotica Movil",
+          "weekHours": 4,
+          "teacher": 6
+        },
+        {
+          "name": "Gestion de la innovacion",
+          "weekHours": 2,
+          "teacher": 3
+        },
+        {
+          "name": "Metodologia de Investigacion",
+          "weekHours": 2,
+          "teacher": 1
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Xavi",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Taha",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sebastia",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Raquel",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Laura",
+      "availability": {
+        "monday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "tuesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "wednesday": [
+          {
+            "from": 8,
+            "to": 15
+          }
+        ],
+        "thursday": [
+          {
+            "from": 8,
+            "to": 12
+          },
+          {
+            "from": 15,
+            "to": 18
+          }
+        ],
+        "friday": [
+          {
+            "from": 12,
+            "to": 15
+          }
+        ]
+      }
+    }
+  ]
+}
